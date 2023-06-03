@@ -1,3 +1,3 @@
 # Deploy Link
 
-link :'https://bhp-predictor.onrender.com/
+link : https://bhp-predictor.onrender.com/
